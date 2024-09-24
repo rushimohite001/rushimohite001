@@ -1,4 +1,5 @@
-[![MasterHead](https://blog.brokee.io/content/images/size/w1920/2023/12/devopsvsdeveloper--1-.png)]
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+
 <h1 align="center">Hi 👋, I'm Rushikesh Mohite</h1>
 <h3 align="center">A Passionate Cloud & DevOps Developer From India.</h3>
 <img align="right" alt="Img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
